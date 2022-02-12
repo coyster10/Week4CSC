@@ -25,3 +25,30 @@ C:\Users\coyba\Desktop\C# 2\Week_3\Week_3\obj\Debug\net6.0\Week_3.dll
 C:\Users\coyba\Desktop\C# 2\Week_3\Week_3\obj\Debug\net6.0\ref\Week_3.dll
 C:\Users\coyba\Desktop\C# 2\Week_3\Week_3\obj\Debug\net6.0\Week_3.pdb
 C:\Users\coyba\Desktop\C# 2\Week_3\Week_3\obj\Debug\net6.0\Week_3.genruntimeconfig.cache
+C:\Users\coyba\Desktop\C#2\Week_3\Week_3\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\coyba\Desktop\C#2\Week_3\Week_3\bin\Debug\net6.0\appsettings.json
+C:\Users\coyba\Desktop\C#2\Week_3\Week_3\bin\Debug\net6.0\Week_3.exe
+C:\Users\coyba\Desktop\C#2\Week_3\Week_3\bin\Debug\net6.0\Week_3.deps.json
+C:\Users\coyba\Desktop\C#2\Week_3\Week_3\bin\Debug\net6.0\Week_3.runtimeconfig.json
+C:\Users\coyba\Desktop\C#2\Week_3\Week_3\bin\Debug\net6.0\Week_3.dll
+C:\Users\coyba\Desktop\C#2\Week_3\Week_3\bin\Debug\net6.0\ref\Week_3.dll
+C:\Users\coyba\Desktop\C#2\Week_3\Week_3\bin\Debug\net6.0\Week_3.pdb
+C:\Users\coyba\Desktop\C#2\Week_3\Week_3\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\coyba\Desktop\C#2\Week_3\Week_3\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\coyba\Desktop\C#2\Week_3\Week_3\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\coyba\Desktop\C#2\Week_3\Week_3\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\coyba\Desktop\C#2\Week_3\Week_3\obj\Debug\net6.0\Week_3.csproj.AssemblyReference.cache
+C:\Users\coyba\Desktop\C#2\Week_3\Week_3\obj\Debug\net6.0\Week_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coyba\Desktop\C#2\Week_3\Week_3\obj\Debug\net6.0\Week_3.AssemblyInfoInputs.cache
+C:\Users\coyba\Desktop\C#2\Week_3\Week_3\obj\Debug\net6.0\Week_3.AssemblyInfo.cs
+C:\Users\coyba\Desktop\C#2\Week_3\Week_3\obj\Debug\net6.0\Week_3.csproj.CoreCompileInputs.cache
+C:\Users\coyba\Desktop\C#2\Week_3\Week_3\obj\Debug\net6.0\Week_3.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\coyba\Desktop\C#2\Week_3\Week_3\obj\Debug\net6.0\Week_3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\coyba\Desktop\C#2\Week_3\Week_3\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\coyba\Desktop\C#2\Week_3\Week_3\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\coyba\Desktop\C#2\Week_3\Week_3\obj\Debug\net6.0\scopedcss\bundle\Week_3.styles.css
+C:\Users\coyba\Desktop\C#2\Week_3\Week_3\obj\Debug\net6.0\Week_3.csproj.CopyComplete
+C:\Users\coyba\Desktop\C#2\Week_3\Week_3\obj\Debug\net6.0\Week_3.dll
+C:\Users\coyba\Desktop\C#2\Week_3\Week_3\obj\Debug\net6.0\ref\Week_3.dll
+C:\Users\coyba\Desktop\C#2\Week_3\Week_3\obj\Debug\net6.0\Week_3.pdb
+C:\Users\coyba\Desktop\C#2\Week_3\Week_3\obj\Debug\net6.0\Week_3.genruntimeconfig.cache

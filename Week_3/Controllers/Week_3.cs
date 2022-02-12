@@ -8,30 +8,23 @@ namespace Week_3.Controllers
     public class Week_3 : ControllerBase
     {
 
-        [HttpPost(Name = "GetWeatherForecast")]
-        public ActionResult<List<string>> IntListWork(List<int> intList)
+        [HttpPost(Name = "Testing API")]
+        public ActionResult<List<hi>> Post([FromBody] List<hi> input)
         {
-            List<string> strList = new List<string>();
-
-            double sum = 0;
-            int counter = 0;
-            double mean = 0;
-            double SD = 0;
-
-            intList.Sort();
-
-            foreach(int i in intList)
+            foreach(hi i in input)
             {
-                counter ++;
-
-                sum += i;
-                mean = sum / counter;
-                SD = standardDeviation(counter, sum, mean, i);
-
-                strList.Add("Entered number " + counter + ": " + i + " | Standard Deviation is " + SD);
+                LogObject(i);
             }
+            
 
-            return strList;
+            return input;
+        }
+
+        void LogObject(hi num)
+        {
+            System.Diagnostics.Debug.WriteLine(num.name);
+            System.Diagnostics.Debug.WriteLine(num.favoriteLetter);
+            System.Diagnostics.Debug.WriteLine(num.color);
         }
 
         static double standardDeviation(int count, double sum, double mean, int num)
@@ -42,5 +35,12 @@ namespace Week_3.Controllers
 
             return Math.Sqrt(result / count);
         }
+    }
+
+    public class hi
+    {
+        public string name { get; set; }
+        public string favoriteLetter { get; set; }
+        public string color { get; set; }
     }
 }
